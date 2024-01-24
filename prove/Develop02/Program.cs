@@ -1,22 +1,8 @@
- 
-
 using System;
 
-
-
- 
-
-
-
-
-
-
- 
-
-
- 
-
-    static void DisplayMenu()
+class Program
+{
+    static void Main(string[] args)
 
     {
 
@@ -33,7 +19,7 @@ using System;
         Console.WriteLine("6. Exit");
 
     }
-
+}
 
  // sir I was struggling with this programm for some reason. Is it possible to grade this programm I submitted and proved corrections.
 
